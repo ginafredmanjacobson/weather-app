@@ -6,7 +6,7 @@ This project fetches live weather data using the OpenWeather API and dynamically
 The goal of this build was to practice:
 
 - Working with external APIs
-- Handling asynchronous JavaScript (fetch / promises)
+- Handling asynchronous JavaScript (fetch/promises)
 - Parsing JSON responses
 - Updating the DOM dynamically
 - Shipping a complete, usable feature independently
